@@ -64,7 +64,7 @@ public class RestAPI {
 	        resultMap.put("id", "jwaminkim");
 	        resultMap.put("name", "김좌민");    	
 	        resultMap.put("nick", "kjm");
-	        resultMap.put("value", "1");   
+	        resultMap.put("value", "12");   
 	        
 	        resultMapList.add(resultMap);
 	        
@@ -74,7 +74,7 @@ public class RestAPI {
 	        resultMap.put("id", "doongyookim");
 	        resultMap.put("name", "김동우");    	
 	        resultMap.put("nick", "kdy");
-	        resultMap.put("value", "2");   
+	        resultMap.put("value", "12");   
 	        
 	        resultMapList.add(resultMap);
 	        
